@@ -6,4 +6,4 @@ you can play this game with your friend when you are together
 
 just start the game and roll the dice you can roll it many time and you'll calculate many point and add it to your score but if your dice number be "1" you'll lost all the score and the game switch to the second player
 
-[Live Demo]()
+[Live Demo](https://almarzouk.github.io/simpleGame/)
